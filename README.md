@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails Backend for Guidance, a DnD 5e app for Druids.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## MVP
+- Users can create a character by level and circle chosen at lvl 3
+- Users can update characters level
+- Users can search available spells and add to prepared list
+- Users can update spell slots and wildshapes used
+- Users can search Beasts by Challenge Rating
+- Users can get random Beast by Challenge Rating
+- Users can add beasts to WildShapes Known
+- Users can view Beast DataSheets
